@@ -1,5 +1,5 @@
 {
-    "name": "framework/framework",
+    "name": "gurvir/framework",
     "autoload": {
         "psr-4": {
             "Framework\\": "Custom/",
